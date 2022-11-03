@@ -1,7 +1,9 @@
+// declaring the main package
 package main
 
-import "fmt"
+//importing the fmt package
+//import "fmt"
 
-func main() {
-	fmt.Println("Is it too late now to say sorry?")
-}
+//func main() {
+//	fmt.Println("Is it too late now to say sorry?")
+//}
