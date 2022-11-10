@@ -1,11 +1,11 @@
 package main
 
-import "fmt"
+//import "fmt"
 
-func add(a, b int) int {
-	return a + b
-}
+//func add(a, b int) int {
+//	return a + b
+//}
 
-func main() {
-	fmt.Println(add(10, 20))
-}
+//func main() {
+//	fmt.Println(add(10, 20))
+//}
